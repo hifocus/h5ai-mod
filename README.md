@@ -5,7 +5,7 @@ A personal modification to the [h5ai](https://larsjung.de/h5ai/) project.
 ## Usage
 
 1. Clone this repository
-2. Run `npm install`
+2. Run `npm install` via **Nodejs 16**
 2. *(Optional)* Make neccesary changes
 3. Run `npm run build` for a production build
 4. Find the build under the `build` directory
