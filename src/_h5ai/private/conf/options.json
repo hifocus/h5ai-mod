@@ -22,7 +22,7 @@
     "resources": {
         "scripts": [],
         "styles": [
-            "/css/red-hat-text.css"
+            "_h5ai/public/css/red-hat-text.css"
         ]
     },
 
