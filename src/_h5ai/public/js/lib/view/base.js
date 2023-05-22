@@ -5,8 +5,8 @@ const TPL_TOPBAR =
         `<div id="topbar">
             <div id="toolbar"></div>
             <div id="flowbar"></div>
-            <a id="backlink" href="https://larsjung.de/h5ai/" title="powered by h5ai - https://larsjung.de/h5ai/">
-                <div>powered</div>
+            <a id="backlink" href="https://larsjung.de/h5ai/" title="Powered by h5ai - https://larsjung.de/h5ai/">
+                <div>Powered</div>
                 <div>by h5ai</div>
             </a>
         </div>`;
