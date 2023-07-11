@@ -22,7 +22,7 @@
     "resources": {
         "scripts": [],
         "styles": [
-            "/_h5ai/public/red-hat-text.css"
+            "/_h5ai/public/roboto.css"
         ]
     },
 
@@ -63,7 +63,7 @@
         "disableSidebar": false,
         "fallbackMode": false,
         "fastBrowsing": true,
-        "fonts": ["Red Hat Text", "SF Pro", "Roboto", "Helvetica", "Arial", "sans-serif"],
+        "fonts": ["Roboto", "SF Pro", "Roboto", "Helvetica", "Arial", "sans-serif"],
         "fontsMono": ["SF Mono", "Monaco", "Lucida Sans Typewriter", "monospace"],
         "hidden": ["^\\.", "^_h5ai"],
         "hideFolders": false,
